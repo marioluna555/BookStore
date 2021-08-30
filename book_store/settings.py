@@ -77,7 +77,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', 
         'NAME': 'Bookstore',
-        'USER': 'DB_USER',
+        'USER': 'admin',
         'PASSWORD': 'DB_PASSWORD',
         'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
         'PORT': '33066',
