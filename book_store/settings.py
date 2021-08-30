@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'book_store.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', 
-        'NAME': 'DB_NAME',
+        'NAME': 'Bookstore',
         'USER': 'DB_USER',
         'PASSWORD': 'DB_PASSWORD',
         'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
